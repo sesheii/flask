@@ -1,6 +1,6 @@
 # install
 
-LINUX ONLY
+LINUX ONLY 
 
 before proceeding with installation you must install [pyenv](https://github.com/pyenv/pyenv) in order to use the correct version of python interpreter, and [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html) to create virtual environments.
 
